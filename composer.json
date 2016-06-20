@@ -1,0 +1,20 @@
+{
+	"name": "anmishael/yii2-jwplayer7",
+	"description": "Modify JWPlayer plugin to use older v.7 and its skins.",
+	"homepage": "https://github.com/anmishael/yii2-jwplayer7#readme",
+	"license": "MIT",
+	"support": {
+		"irc": "irc://irc.freenode.org/jquery",
+		"issues": "https://github.com/anmishael/yii2-jwplayer7/issues",
+		"forum": "http://www.yiiframework.com/forum/",
+		"source": "https://github.com/anmishael/yii2-jwplayer7"
+	},
+	"require": {
+		"yiisoft/jquery": ">=1.8"
+	},
+	"autoload": {
+                "psr-4": {
+                        "anmishael\\jwplayer7\\": ""
+                }
+        }
+}
