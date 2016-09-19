@@ -15,6 +15,6 @@ class JWPlayerAsset extends AssetBundle
     public $js = ['jwplayer.js'];
 	public $css = ['skins/six.css'];
     public $depends=[
-        'yii\web\JqueryAsset'
+        'yii\web\YiiAsset'
     ];
 } 
